@@ -17,8 +17,8 @@ This repository contains an Excel spreadsheet created to help players of *Death 
 ## 🕹️ How to Use
 
 1.  Open the `.xlsx` file in Excel or Google Sheets.
-2.  Check off the roads you want to build (using checkboxes or filters).
-3.  The spreadsheet will automatically update the total required materials.
+2.  Check off the roads you want to build (just write below Cristal, Ceramica or Metal how are your rates e.g. 180/300).
+3.  The spreadsheet will automatically update the total required materials in the fisrt line.
 4.  Use this information to better prepare before going out to gather resources or requesting online assistance.
 
 ## ❗ Why Does This Matter?
