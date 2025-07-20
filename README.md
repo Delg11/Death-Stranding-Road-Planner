@@ -58,8 +58,8 @@ Este repositório contém uma planilha Excel criada para ajudar jogadores de *De
 ## 🕹️ Como usar
 
 1. Abra o arquivo `.xlsx` no Excel ou Google Sheets.
-2. Marque as estradas que você deseja construir (usando checkboxes ou filtros).
-3. A planilha irá automaticamente atualizar o total de materiais necessários.
+2. Marque as estradas que você deseja construir (Apenas escreva abaixo de Cristal, Metal ou Cerâmica como está sua situação agora, por exemplo, 180/300).
+3. A planilha irá automaticamente atualizar o total de materiais necessários na primeira linha.
 4. Use essas informações para se preparar melhor antes de sair em coleta ou solicitar ajuda via online.
 
 ## ❗ Por que isso importa?
